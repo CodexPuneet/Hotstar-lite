@@ -41,16 +41,18 @@ Technologies used in the project:
 ## 🚀 Demo
 
 **Front-end deployed URL:**
-https://chimerical-unicorn-82dad6.netlify.app/
+https://joyful-choux-821d5c.netlify.app/
 
 # Installation
 
 Clone the project
 ```bash
-git clone https://github.com/CodexPuneet/Youtube.git
+https://github.com/CodexPuneet/Hotstar-lite.git
+run index file // run it locally
 ```
 ## ✍Developer
 - [@CodexPuneet](https://www.github.com/CodexPuneet)
 ##
-This project was a part of my learning and I have implimented to the best of my knowledge CSS and Vanilla Javascript to build this.
+
+This project was a part of my learning and I have implimented to the best of my knowledge CSS and Vanilla Javascript to build this.And this my individual Project
        
